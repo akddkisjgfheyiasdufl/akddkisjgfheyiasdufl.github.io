@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/active/go/',
-    bare:'https://qms.s.s.s.s.s.scool.is.fun.truckstore.ch/bare',
+    bare:'http://qms.cool.a.truckstore.ch/bare',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/active/uv/uv.handler.js',
